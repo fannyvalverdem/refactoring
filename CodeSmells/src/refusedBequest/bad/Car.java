@@ -9,9 +9,6 @@ package refusedBequest.bad;
  *
  * @author Fanny
  */
-public class GameBoard {
-
-    public GameBoard() {
-    }
+public class Car extends Vehicle{
     
 }

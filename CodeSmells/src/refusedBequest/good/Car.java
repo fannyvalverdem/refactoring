@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package refusedBequest.bad;
+package refusedBequest.good;
+
 
 /**
  *
  * @author Fanny
  */
-interface Controller {
-    
+public class Car extends Vehicle{
+    void Drive() { }
 }

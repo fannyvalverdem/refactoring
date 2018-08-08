@@ -9,6 +9,6 @@ package refusedBequest.bad;
  *
  * @author Fanny
  */
-class View {
+public class Plane extends Vehicle{
     
 }
